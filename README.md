@@ -1,4 +1,4 @@
 # Hacktoberfest
 Hacktoberfest
 
-![cat](http://thecatapi.com/api/images/get?raw=true&format=src&type=gif)
+![cat](https://thecatapi.com/api/images/get?format=src&type=gif)
